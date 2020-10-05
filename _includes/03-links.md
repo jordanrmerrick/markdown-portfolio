@@ -1,1 +1,1 @@
-![github](https://github.com/github/training-kit)
+[github](https://github.com/github/training-kit)
